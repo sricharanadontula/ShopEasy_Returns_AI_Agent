@@ -1,0 +1,41 @@
+request_id,order_id,reason_text,has_photo
+RET9001,ORD7048,Product is damaged on arrival,Y
+RET9002,ORD7030,Size does not fit,N
+RET9003,ORD7010,Quality is not as shown,Y
+RET9004,ORD7034,Product is damaged on arrival,N
+RET9005,ORD7011,"Item arrived late, no longer needed",Y
+RET9006,ORD7007,Received the wrong item,Y
+RET9007,ORD7040,Stopped working after two days,Y
+RET9008,ORD7035,Stopped working after two days,Y
+RET9009,ORD7039,Changed my mind,Y
+RET9010,ORD7050,Stopped working after two days,Y
+RET9011,ORD7038,Stopped working after two days,Y
+RET9012,ORD7032,"Item arrived late, no longer needed",Y
+RET9013,ORD7024,Changed my mind,Y
+RET9014,ORD7031,Quality is not as shown,N
+RET9015,ORD7002,Size does not fit,N
+RET9016,ORD7046,Quality is not as shown,Y
+RET9017,ORD7014,Stopped working after two days,N
+RET9018,ORD7043,Received the wrong item,N
+RET9019,ORD7027,Stopped working after two days,Y
+RET9020,ORD7049,Product is damaged on arrival,Y
+RET9021,ORD7023,Product is damaged on arrival,Y
+RET9022,ORD7045,Stopped working after two days,Y
+RET9023,ORD7044,Size does not fit,Y
+RET9024,ORD7029,"Item arrived late, no longer needed",N
+RET9025,ORD7037,"Item arrived late, no longer needed",Y
+RET9026,ORD7026,Quality is not as shown,N
+RET9027,ORD7006,"Item arrived late, no longer needed",N
+RET9028,ORD7015,Quality is not as shown,Y
+RET9029,ORD7033,Changed my mind,Y
+RET9030,ORD7012,"Item arrived late, no longer needed",N
+RET9031,ORD7003,Received the wrong item,Y
+RET9032,ORD7017,Product is damaged on arrival,N
+RET9033,ORD7022,Changed my mind,N
+RET9034,ORD7016,Changed my mind,N
+RET9035,ORD7005,"Item arrived late, no longer needed",Y
+RET9036,ORD7020,"Item arrived late, no longer needed",N
+RET9037,ORD7009,Changed my mind,Y
+RET9038,ORD7036,Product is damaged on arrival,Y
+RET9039,ORD7021,Changed my mind,Y
+RET9040,ORD7018,Changed my mind,Y

@@ -1,0 +1,52 @@
+
+SHOPEASY RETURNS AI AGENT
+MONITORING AND METRICS REPORT
+========================================
+
+1. REQUEST PROCESSING
+
+Total requests: 40
+Successfully completed: 40
+Incomplete/failed: 0
+Completion rate: 100.00%
+
+2. DECISION DISTRIBUTION
+
+             decision  request_count  percentage
+REJECT_WINDOW_EXPIRED             16        40.0
+       CANCEL_INSTEAD              8        20.0
+ESCALATE_ABUSE_REVIEW              5        12.5
+       REJECT_GROCERY              5        12.5
+       APPROVE_REFUND              5        12.5
+        REQUEST_PHOTO              1         2.5
+
+3. MOCK REFUND METRICS
+
+Total refund records: 5
+
+refund_status
+MOCK_REFUND_ISSUED    5
+
+4. CUSTOMER COMMUNICATION
+
+Customer messages recorded: 40
+
+5. ERROR MONITORING
+
+Errors recorded in results: 0
+
+6. OBSERVABILITY
+
+Tracing platform: LangSmith
+LLM provider: NVIDIA Nemotron
+Workflow framework: LangGraph
+
+LangSmith traces should be used to inspect:
+- Execution traces
+- LLM latency
+- Token usage
+- Tool execution
+- Errors and failures
+
+========================================
+END OF REPORT

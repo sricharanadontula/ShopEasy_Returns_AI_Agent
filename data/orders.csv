@@ -1,0 +1,51 @@
+order_id,customer_id,category,price_inr,delivery_status,days_since_delivery,payment_mode
+ORD7001,CUS201,Beauty,1499,Delivered,9,Wallet
+ORD7002,CUS214,Fashion,2499,Delivered,22,Card
+ORD7003,CUS201,Beauty,1499,Delivered,15,Card
+ORD7004,CUS221,Fashion,3999,Delivered,6,Wallet
+ORD7005,CUS205,Electronics,4999,Delivered,14,Card
+ORD7006,CUS221,Beauty,1499,Delivered,8,Card
+ORD7007,CUS203,Electronics,12999,Delivered,6,Card
+ORD7008,CUS224,Fashion,1299,Delivered,2,Card
+ORD7009,CUS205,Beauty,799,Delivered,13,UPI
+ORD7010,CUS225,Home,2499,Delivered,15,Card
+ORD7011,CUS226,Fashion,2499,Delivered,9,Card
+ORD7012,CUS230,Beauty,349,In Transit,0,UPI
+ORD7013,CUS203,Grocery,199,Delivered,15,COD
+ORD7014,CUS217,Beauty,349,Delivered,20,Wallet
+ORD7015,CUS209,Home,6999,Delivered,23,Card
+ORD7016,CUS209,Grocery,900,In Transit,0,UPI
+ORD7017,CUS204,Fashion,599,In Transit,0,Card
+ORD7018,CUS228,Beauty,349,Delivered,14,COD
+ORD7019,CUS225,Beauty,799,Delivered,9,Card
+ORD7020,CUS207,Beauty,349,Delivered,13,UPI
+ORD7021,CUS223,Home,6999,Delivered,18,UPI
+ORD7022,CUS220,Electronics,4999,Delivered,15,UPI
+ORD7023,CUS215,Electronics,12999,In Transit,0,UPI
+ORD7024,CUS202,Beauty,1499,In Transit,0,Wallet
+ORD7025,CUS202,Beauty,799,Delivered,24,Card
+ORD7026,CUS209,Home,6999,Delivered,9,Card
+ORD7027,CUS228,Electronics,1999,Delivered,10,UPI
+ORD7028,CUS228,Grocery,450,Delivered,9,Card
+ORD7029,CUS207,Electronics,54999,Delivered,6,Card
+ORD7030,CUS208,Grocery,199,Delivered,23,Card
+ORD7031,CUS227,Beauty,1499,Delivered,13,Card
+ORD7032,CUS220,Grocery,450,Delivered,24,Wallet
+ORD7033,CUS227,Grocery,199,Delivered,18,Wallet
+ORD7034,CUS229,Home,899,Delivered,17,COD
+ORD7035,CUS214,Electronics,1999,Delivered,22,Wallet
+ORD7036,CUS226,Electronics,12999,Delivered,8,UPI
+ORD7037,CUS229,Electronics,28999,Delivered,11,UPI
+ORD7038,CUS224,Fashion,1299,Delivered,13,Wallet
+ORD7039,CUS211,Grocery,900,Delivered,5,UPI
+ORD7040,CUS203,Grocery,900,Delivered,20,UPI
+ORD7041,CUS230,Beauty,349,Delivered,14,UPI
+ORD7042,CUS224,Beauty,1499,Delivered,20,COD
+ORD7043,CUS209,Home,899,Delivered,4,COD
+ORD7044,CUS212,Fashion,1299,Delivered,12,Wallet
+ORD7045,CUS203,Beauty,349,Delivered,12,Card
+ORD7046,CUS214,Home,899,In Transit,0,COD
+ORD7047,CUS212,Grocery,450,In Transit,0,Wallet
+ORD7048,CUS211,Fashion,2499,Delivered,1,COD
+ORD7049,CUS206,Electronics,54999,In Transit,0,Card
+ORD7050,CUS226,Fashion,599,In Transit,0,Wallet

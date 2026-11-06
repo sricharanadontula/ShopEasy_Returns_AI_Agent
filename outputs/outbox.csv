@@ -1,0 +1,41 @@
+request_id,customer_id,message,timestamp
+RET9001,CUS211,Your return request requires additional review by our customer support team. We will update you after review.,2026-11-06T11:24:07.687793+00:00
+RET9002,CUS208,This grocery item is not eligible for a return under our return policy.,2026-11-06T11:24:10.805798+00:00
+RET9003,CUS225,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:24:14.936161+00:00
+RET9004,CUS229,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:24:18.648359+00:00
+RET9005,CUS226,Your return request requires additional review by our customer support team. We will update you after review.,2026-11-06T11:24:52.244961+00:00
+RET9006,CUS203,A refund record already exists for your return. Please check your refund status through ShopEasy support.,2026-11-06T11:24:54.595164+00:00
+RET9007,CUS203,This grocery item is not eligible for a return under our return policy.,2026-11-06T11:24:58.798357+00:00
+RET9008,CUS214,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:25:02.944331+00:00
+RET9009,CUS211,This grocery item is not eligible for a return under our return policy.,2026-11-06T11:25:05.132260+00:00
+RET9010,CUS226,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:25:14.998310+00:00
+RET9011,CUS224,A refund record already exists for your return. Please check your refund status through ShopEasy support.,2026-11-06T11:25:22.087369+00:00
+RET9012,CUS220,This grocery item is not eligible for a return under our return policy.,2026-11-06T11:25:33.271608+00:00
+RET9013,CUS202,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:25:35.676281+00:00
+RET9014,CUS227,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:25:40.148389+00:00
+RET9015,CUS214,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:25:42.686179+00:00
+RET9016,CUS214,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:25:46.172827+00:00
+RET9017,CUS217,Your return request requires additional review by our customer support team. We will update you after review.,2026-11-06T11:25:52.476403+00:00
+RET9018,CUS209,Please upload a clear photo of the damaged or incorrect item so we can review your return request.,2026-11-06T11:25:54.985878+00:00
+RET9019,CUS228,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:26:01.848875+00:00
+RET9020,CUS206,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:26:06.551753+00:00
+RET9021,CUS215,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:26:11.311106+00:00
+RET9022,CUS203,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:26:15.563828+00:00
+RET9023,CUS212,A refund record already exists for your return. Please check your refund status through ShopEasy support.,2026-11-06T11:26:19.166497+00:00
+RET9024,CUS207,A refund record already exists for your return. Please check your refund status through ShopEasy support.,2026-11-06T11:27:14.055506+00:00
+RET9025,CUS229,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:27:47.481804+00:00
+RET9026,CUS209,A refund record already exists for your return. Please check your refund status through ShopEasy support.,2026-11-06T11:27:52.415302+00:00
+RET9027,CUS221,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:28:36.512154+00:00
+RET9028,CUS209,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:28:39.375048+00:00
+RET9029,CUS227,This grocery item is not eligible for a return under our return policy.,2026-11-06T11:28:43.002251+00:00
+RET9030,CUS230,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:29:45.960184+00:00
+RET9031,CUS201,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:29:48.528064+00:00
+RET9032,CUS204,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:29:54.460537+00:00
+RET9033,CUS220,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:29:57.197343+00:00
+RET9034,CUS209,Your order has not been delivered yet. Please contact ShopEasy support to request cancellation.,2026-11-06T11:30:04.874459+00:00
+RET9035,CUS205,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:30:48.139570+00:00
+RET9036,CUS207,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:31:23.698603+00:00
+RET9037,CUS205,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:31:26.676843+00:00
+RET9038,CUS226,Your return request requires additional review by our customer support team. We will update you after review.,2026-11-06T11:31:32.858731+00:00
+RET9039,CUS223,Your return request requires additional review by our customer support team. We will update you after review.,2026-11-06T11:31:36.100873+00:00
+RET9040,CUS228,Your return request is outside the applicable return window and cannot be approved.,2026-11-06T11:31:39.378794+00:00
